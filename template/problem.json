@@ -1,0 +1,20 @@
+{
+  "id": 0,
+  "title": "Hello World!",
+  "time_limit": 1000,
+  "memory_limit": 32768,
+  "special_judge": false,
+  "data":[
+    {
+      "input": "data/data1.in",
+      "output": "data/data1.out"
+    },
+    {
+      "input": "data/data2.in",
+      "output": "data/data2.out"
+    }
+  ],
+  "description": "description.md",
+  "created": "2013-05-20T16:30:00.800Z",
+  "updated": "2013-05-20T16:30:00.800Z"
+}
