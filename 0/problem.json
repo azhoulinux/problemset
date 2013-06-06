@@ -1,6 +1,6 @@
 {
   "id": 0,
-  "title": "Hello World!",
+  "title": "A + B Problem",
   "time_limit": 1000,
   "memory_limit": 32768,
   "special_judge": false,
@@ -8,10 +8,6 @@
     {
       "input": "data/data1.in",
       "output": "data/data1.out"
-    },
-    {
-      "input": "data/data2.in",
-      "output": "data/data2.out"
     }
   ],
   "information": "description.md",
